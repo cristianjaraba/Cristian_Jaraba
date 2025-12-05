@@ -52,7 +52,7 @@ Roles as **Teacher** and **Lecturer** in Barcelona and Jinan:
 
 ## 🎓 Education
 
-- **Application Development Specialist (FIAE)** – ILS Hamburg  
+- **Application Development Specialist (FIAE)** – ILS Hamburg (2025) 
 - **Master’s Degree in Teaching Spanish as a Foreign Language** – University of Barcelona (2013)  
 - **Teaching Qualification Certificate** – University of Barcelona (2009)  
 - **Bachelor’s in Classical Philology (Latin & Ancient Greek)** – University of Barcelona (2009)
