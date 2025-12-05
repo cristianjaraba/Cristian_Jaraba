@@ -2,7 +2,7 @@
 ### Junior Software Developer | .NET & SQL | Application Development Specialist (FIAE)
 
 I am a certified Application Development Specialist (Fachinformatiker für Anwendungsentwicklung, ILS Hamburg) with a strong focus on **C#/.NET**, **database engineering**, and **clean, maintainable backend architectures**.  
-I bring a unique combination of **technical expertise**, **analytical thinking**, and **professional communication**, shaped by several years in **fraud analysis**, **process optimization**, and **international teaching**.
+I combine solid technical skills with analytical thinking and strong communication, shaped by years of experience in **fraud analysis**, **process improvement**, and **teaching across different countries**.
 
 ---
 
